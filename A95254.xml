@@ -1,0 +1,265 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the proceedings of the Cornish forces under the command of the Lord Mohune and Sir Ralph Hopton. Wherein is contained a list of the commanders in chiefe, the colonels, lieutenant-colonels, serjeant-majors and captains, with the totall of their strength, and garrison-townes. Also the names of those delinquents that have left their habitations in that county, and follow the army.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95254</idno>
+            <idno type="STC">Wing T3022</idno>
+            <idno type="STC">Thomason E102_17</idno>
+            <idno type="STC">ESTC R13185</idno>
+            <idno type="EEBO-CITATION">99859432</idno>
+            <idno type="PROQUEST">99859432</idno>
+            <idno type="VID">155908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95254)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 18:E102[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the proceedings of the Cornish forces under the command of the Lord Mohune and Sir Ralph Hopton. Wherein is contained a list of the commanders in chiefe, the colonels, lieutenant-colonels, serjeant-majors and captains, with the totall of their strength, and garrison-townes. Also the names of those delinquents that have left their habitations in that county, and follow the army.</title>
+                  <author>J. T.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Philip Smith,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The copie of letter, relating the places and garrison towns of the Cornish forces .." signed: J. T.</note>
+                  <note>Annotation on Thomason copy: "may 19".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652.</term>
+               <term>Mohun, Warwick, --  Lord, 1620-1665.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155908:1" rendition="simple:additions"/>
+            <p>A TRUE RELATION OF The proceedings of the Corniſh Forces under the command of the Lord MOHUNE and Sir RALPH HOPTON.</p>
+            <p>
+               <hi>Wherein is contained a Liſt of the Comman<g ref="char:EOLhyphen"/>ders in Chiefe, the Colonels, Lievtenant-Colonels, Serjeant-Majors and Captains, with the Totall of their ſtrength, and Garriſon-townes.</hi>
+            </p>
+            <p>Alſo the names of thoſe Delinquents that have left their habitations in that County, and follow the Army.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Philip Smith.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155908:2"/>
+            <pb facs="tcp:155908:2"/>
+            <head>The Copie of a Letter, relating the places and Garriſon towns of the Corniſh Forces, with the number of ſouldi<g ref="char:EOLhyphen"/>ers therein, and alſo a liſt of the Commanders in chiefe, the totall of their ſtrength, and the names of thoſe Delinquents which leave their habitations in that County.</head>
+            <p>KInd Sir, for the many favours which have been by me re<g ref="char:EOLhyphen"/>ceived from you, I cannot but impart my knowledge of the proceedings of our Weſtern Armies: and although I can<g ref="char:EOLhyphen"/>not ſtamp ſo good a letter as the Pamphlets I lately received from you, yet the reality of my pen ſhall far exceed your knowledge therein. Whereas ſeverall writings largely expreſt the death of Sir <hi>Ralph Hopton,</hi> and how he was taken, ſtript, and for greedineſſe of plunder let paſſe, I can aſſure you there is no certainty in any of it: but for certain he is yet alive, for I have ſeen many Warrants iſſued forth under his name for the raiſing of money towards the paiment of the ſouldiers, ſince thoſe un<g ref="char:EOLhyphen"/>truths have been ſet abroach. The Corniſh Army we under<g ref="char:EOLhyphen"/>ſtand lieth upon the borders of our Shire, and at theſe places: <hi>viz. Liſcard, Saltaſh, Launceſton, Bridgerule, Stratton,</hi> and other Pariſhes neer the river: and firſt the L. <hi>Mohune</hi> his Regiment, conſiſting of about 900. quartereth at <hi>Liſcard,</hi> and the Pari<g ref="char:EOLhyphen"/>ſhes thereabouts, towards his manſion houſe near <hi>Loſtithell.</hi> At <hi>Saltaſh</hi> Sir <hi>Nicholas Slaning</hi> his Regiment, conſiſting of about 1000. are garronized, whereof old Sir <hi>William Courtney</hi> is go<g ref="char:EOLhyphen"/>vernour. At <hi>Launceſton</hi> M. <hi>Trevanian</hi> his Regiment is quarter<g ref="char:EOLhyphen"/>ed, conſiſting of about 700. foot. At <hi>Bridgerule</hi> in <hi>Cornwall</hi> Sir <hi>Francis Haley</hi> his Troup of horſe, conſiſting of 200. At <hi>Strat<g ref="char:EOLhyphen"/>ton,</hi>
+               <pb facs="tcp:155908:3"/>Sir <hi>Bevil Greenvil</hi> with the number of 1200. a great ſtrength to defend his Houſe there, and ſixtly the Reformado Captaines being a company of younger Brothers, not having meanes to raiſe men, are quartered in the out pariſhes, and feedeth upon the ſpoile of the Country, and indeed upon any fight they are very diligent if oportunity ſerve, and they ſeing a good booty to ſeize thereof, the forces there be which lyeth in the arreare of each town to fall upon an onſet if occaſion ſerves, now to prevent their further rage amongſt us, I have ſet down in order the ſtrength of our force appointed to be billited neer each place and under whoſe command firſt about <hi>Plymouth, Plimton</hi> and <hi>Stoke,</hi> there are in Garriſon 2000. Foot, and 500. Horſe, under the command of that worthy gentleman Sir <hi>George Chudleigh,</hi> Knight and Baronet, and governour of Plymouth, Mountwiſe and other Caſtles thereabouts, Secondly, to hinder the Corniſh paſſage from Salt-aſh into Devon, there quartereth Barronet <hi>Noreot,</hi> his Regiment conſiſting of about 1200. at a place neere Ruberdown, nevertheleſſe the Corniſh here breaketh the limits and dayly roweth over the paſſage, and ſtealeth our horſe ſheep and Oxen, but by chance we have met and taken ſome of the theeves, of which maſter <hi>Blight</hi> is chiefe, the main perſon that doth the ſpoile amonſt us, wee impriſoned him and his crew at Plymouth, but we heare ſince he is broken away and at liberty we conceive it a treachery in ſome of the townſmen that had made the way for his eſcape, of which you ſhall heare the truth by the next Poſt, there was a worthy Gentleman proffered to bee ranſomed for him, but our Deputy Lievtenants refuſed it, becauſe he was the firſt and chiefe agent that drawed and pre<g ref="char:EOLhyphen"/>ferred the Corniſh Petition to his Majeſty, a petition very full of mallice and wickedneſſe, and when he was denied by our Deputy Lievetenants, to be exchanged for Sir <hi>Shilſton Colema<g ref="char:EOLhyphen"/>ny,</hi> Sir <hi>Ralph Hopton</hi> worked a cunning plot and way for his e<g ref="char:EOLhyphen"/>ſcape
+<pb facs="tcp:155908:3"/>as thus diſguiſed in face and head, by the Barbers ſhaving off his long haire, and in ſouldiers apparell walking in the ranks of others as though his fellowes, and ſo paſſed through all the Ports of Plymouth, our Sergeant Major Generall, Sir George Chudleigh his ſonne, I know you have heard of his vallour and wit at the laſt Fight at Ochampton, for which worke of re<g ref="char:EOLhyphen"/>nown the Citizens of Exeter have preſented him with a rich preſent, a Baſon and Ewer, worth a hundred pounds as I heare, now for the Town of Bridgerule, where Sir <hi>Francis Haley</hi> quar<g ref="char:EOLhyphen"/>tereth, we have appointed Captain Tompſon his Troope with a Foot Company of Captain Lutterels, I take it to keepe him within compaſſe at that place, at Stratton we have received in<g ref="char:EOLhyphen"/>telligence that there is a great ſtirre and unrulineſſe between Sir Bevil Greenvil Horſe and Foot, and ſome ſpoile and hurt have been done about Holſworth, by his Forces, but we are ſending of a Regiment of Foot, and 500. Horſe, which wee hope will appeaſe the ſouldiers rage there: One paſſage I would not wil<g ref="char:EOLhyphen"/>lingly omit: a Captain of his Regiment with a Company of ſouldiers came to plunder, and in a Farmers houſe they were entertained with a great deal of reſpect and abundance of good cheer and beer they had, inſomuch that Captain and ſouldiers were drunk therewith, and in the interim of their jollity a Com<g ref="char:EOLhyphen"/>pany of our trained Bands apprehended them all unawares, and not one man ſlain on either ſide, but a Lievtenants hand cut, which we much lament: but ſince it is our fortune to take ſuch a company of rebellious perſons, we may rejoyce thereat, and ſo we hope ſhortly to regain our loſſes at Liſcard, occaſioned by the neglect of our Lievtenant-Generall, who is ſince gone from us, both for that and the ill ſervice he did at the laſt fight at Modbury. We heare that at Pendennis Caſtle a Captain brought from Gerſey and S. Mallowes great ſtore of Ammuni<g ref="char:EOLhyphen"/>tion for the Corniſh, I believe they are in great diſtreſſe thereof,
+<pb facs="tcp:155908:4"/>let them make merry therewith, for I can aſſure you the Cor<g ref="char:EOLhyphen"/>niſh wil be fruſtrate of other hopes that way, for what with <hi>Plymouth, Dartmouth</hi> and other havens in our Countrey, we have ſhipping ready for ſea, and hope to prevent it. We have lately taken two Spies coming from Sir <hi>Ralph Hopton,</hi> and as I am in<g ref="char:EOLhyphen"/>formed, he was ſent to the Papiſts in <hi>Dorſet</hi> and <hi>Somerſetſhire,</hi> for raiſing of money for payment of his ſouldiers, the Corniſh ſum of 1000. pound a week beginneth to fail, and the Commo<g ref="char:EOLhyphen"/>nalty weary of the taxations: two or three prizes have ſtood them in great ſtead; for as yet the Spaniſh ſilver flouriſheth a<g ref="char:EOLhyphen"/>mongſt them. I will conclude with theſe few words: Both the <hi>Trevanians</hi> for certain would leave their Commands, but they have ſo ingaged themſelves in this unnaturall war, and be<g ref="char:EOLhyphen"/>ing the two firſt ring-leaders that raiſed the rebellion in <hi>Corn<g ref="char:EOLhyphen"/>wall,</hi> Sir <hi>Ralph Hopton</hi> by his policy hath ſo bewitched their good intentions, that they know not where to turn, lie or go in reſt, wiſhing that the third part of their eſtates would recon<g ref="char:EOLhyphen"/>cile them to the Parliament. And thus much for the preſent, the next week you ſhall have a full telation of what is now pre<g ref="char:EOLhyphen"/>paring on both ſides, which God grant may be for his glory and our good.</p>
+            <closer>
+               <dateline>Plymouth, <date>May 15. 1643.</date>
+               </dateline>
+               <signed>Yours, &amp;c. J. T.</signed>
+            </closer>
+         </div>
+         <div type="list">
+            <pb facs="tcp:155908:4"/>
+            <head>A Liſt of His Majeſties Commanders in chiefe, alſo the names of the Colonels, Lievtenant-Colonels, Serjeant-Majors and Captains of his Majeſties Forces in <hi>Cornwall.</hi>
+            </head>
+            <list>
+               <item>Lord Mohune <hi>L. Generall.</hi>
+               </item>
+               <item>Sir Ralph Hopton <hi>Lievtenant-Generall.</hi>
+               </item>
+               <item>Colonell Aſhburrham <hi>Serjeant Major Generall.</hi>
+               </item>
+               <item>Sir Nicolas Staning <hi>Colonell of one Foot Regiment.</hi>
+               </item>
+               <item>Sir Iohn Barkley <hi>Lievtenant-Colonell.</hi>
+               </item>
+               <item>Serjeant-Major Mannington.</item>
+               <item>Captain Weeks.</item>
+               <item>Captain Cooke.</item>
+               <item>Captain Foſter.</item>
+               <item>Captain Rich.</item>
+               <item>Captain Smallacombe.</item>
+               <item>Captain Rous.</item>
+               <item>Captain Piper.</item>
+               <item>Captain Poulſon.</item>
+               <item>M. Baſſet <hi>Colonell of a Foot Regiment.</hi>
+               </item>
+               <item>M. Alexander <hi>Lievtenant-Colonell.</hi>
+               </item>
+               <item>M. Button <hi>Serjeant-Major.</hi>
+               </item>
+               <item>Captain Butler.</item>
+               <item>Captain Winter.</item>
+               <item>Captain Fiſher.</item>
+               <item>Gaptain Roſe.</item>
+               <item>Captain Frier.</item>
+               <item>Captain Reynolds.</item>
+               <item>Captain Ware.</item>
+               <item>Sir Bevill Greenvile <hi>Colonell of one Foot Regiment</hi>
+               </item>
+               <item>Sir Peter Courtney <hi>Lievte<g ref="char:EOLhyphen"/>nant-Colonell.</hi>
+               </item>
+               <item>M. Deroy <hi>Serjeant-Major.</hi>
+               </item>
+               <item>Captain Piper.</item>
+               <item>Captain Eſtcot.</item>
+               <item>Captain Ford.</item>
+               <item>Captain Porter.</item>
+               <item>Captain Smith.</item>
+               <item>Captain Watts.</item>
+               <item>Captain Penvowne.</item>
+               <item>M. Trevanian <hi>the younger Colonell.</hi>
+               </item>
+               <item>M. Edgecombe <hi>Lievtenant-Colonell.</hi>
+               </item>
+               <item>M. Carey <hi>Serjeant-Major.</hi>
+               </item>
+               <item>Captain Wiſe.</item>
+               <item>Captain Southcot.</item>
+               <item>Captain Hollyard.</item>
+               <pb facs="tcp:155908:5"/>
+               <item>Captain Bates.</item>
+               <item>Captain Stokes.</item>
+               <item>Captain Newton.</item>
+               <item>L. Mohune <hi>Colonell of one Foot Regi<g ref="char:EOLhyphen"/>ment.</hi>
+               </item>
+               <item>Sir William Courtney <hi>Lievtenant Colonell.</hi>
+               </item>
+               <item>M. Parrey <hi>Serjeant-Major.</hi>
+               </item>
+               <item>Captain Lambert.</item>
+               <item>Captain Glyn.</item>
+               <item>Captain Saul.</item>
+               <item>Captain Williams.</item>
+               <item>Captain Mannington.</item>
+               <item>Captain Cory.</item>
+               <item>M. Kadol<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hin <hi>Colonel of a Regiment.</hi>
+               </item>
+               <item>Sir Thomas <hi>Liev<g ref="char:EOLhyphen"/>tenant Colonell.</hi>
+               </item>
+               <item>M. Peter's <hi>Serjeant-Major.</hi>
+               </item>
+               <item>Captain Hill.</item>
+               <item>Captain Mountforke.</item>
+               <item>Captain S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lter.</item>
+               <item>Captain Wotton.</item>
+               <item>Captain Furlow.</item>
+               <item>Captain Willis.</item>
+               <item>Captain Vpton.</item>
+               <item>M. Trevanian <hi>Colo<g ref="char:EOLhyphen"/>nell of one Foot Re<g ref="char:EOLhyphen"/>giment.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Arundell <hi>Lievte<g ref="char:EOLhyphen"/>nant Colonell.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Trelawny <hi>Serjeant. Major.</hi>
+               </item>
+               <item>Captain Groſſe.</item>
+               <item>Captain Burlacy.</item>
+               <item>Captain Haſwarſe.</item>
+               <item>Captain Boskoyne.</item>
+               <item>Captain Ballard.</item>
+               <item>Captain Froſt.</item>
+               <item>
+                  <hi>M.</hi> Crue <hi>Provoſt Mar<g ref="char:EOLhyphen"/>tiall.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Fuller <hi>Secretary of the Army.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Weekley <hi>Captaine of the Carriages.</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Cory Quarter-Ma<g ref="char:EOLhyphen"/>ſter.</item>
+            </list>
+            <p>The horſe under the command of the L. Generall conſiſteth of about 1400. whereof the L. Generals two Troupes are about 150. ſome of which are very ſerviceable: the reſt under the command of other Cap<g ref="char:EOLhyphen"/>tains are for the moſt part of the Countrey plowing horſes, all which number of horſe and foot conſiſteth of about 6000. and no more.</p>
+            <p>There are divers Captaine-Reformadoes, and Delinquents of <hi>Devon, Somerſet,</hi> and <hi>Dorſet,</hi> which follow the army, to wit, the Sheriffe of <hi>Devon,</hi> Collonell <hi>Thomas Fulford,</hi> of <hi>Fulford, Ackland</hi> of <hi>Ackland</hi> Eſquire, <hi>Gifford</hi> of <hi>Brightley</hi> and <hi>Huiſh</hi> Eſ<g ref="char:EOLhyphen"/>quires, <hi>Yeoman</hi> of <hi>Upton</hi> Eſquire, Archdeacon <hi>Cotton</hi> one of the Prebends of <hi>Exceter,</hi> the Clergie-men of all parts in abundance and of all ſects of religion, following them, ſo that they may picke and choſe, ſome of the Commonaltie and of all townes in thoſe ſhires which are fled and left their habitations, and although the Corniſh give out they are 10. nay 12000 ſtrong, theſe Delinquents and runawayes will amount to a great number, but of fighting men in pay we know for certaine is not full ſix thouſand.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
